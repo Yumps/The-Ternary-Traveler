@@ -6,7 +6,7 @@
 
 *Edit: hand in hand with save placeId issues.
 
-*Delete: works
+*Delete: works, does not have alert before deleted
 
 Still need to be create function to refresh DOM on button press.
 
