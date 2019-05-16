@@ -1,4 +1,4 @@
-# *Does Not Fit Ticket 100%
+# Does Not Fit Ticket 100%
 
 *GET: Should be working properly!
 
