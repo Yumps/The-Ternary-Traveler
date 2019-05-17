@@ -12,7 +12,7 @@
 **Delete:** ~~works, does not have alert before deleted.~~<br>
 **_EDIT:_** Delete now has a working confirm before being deleted.
 
-**Does not refresh DOM yet.
+**Does not refresh DOM yet.**
 
 ## Project Setup
 
