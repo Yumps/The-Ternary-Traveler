@@ -1,14 +1,18 @@
 # Does Not Fit Ticket 100%
 
 *GET: Should be working properly!
+*EDIT* Works great! 2.0 - will bundle similar interests together
 
-*Save: currently only saves to one placeId
+*Save: currently only saves to one placeId.
+*EDIT* Save now adds to proper placeId.
 
 *Edit: hand in hand with save placeId issues.
+*EDIT* Edit now works! All features can be edited, as well as if you added the interest to the wrong placeId it can be changed.
 
 *Delete: works, does not have alert before deleted
+*EDIT* Delete now has a working confirm before being deleted.
 
-Still need to be create function to refresh DOM on button press.
+#Does not refresh DOM yet.
 
 ## Project Setup
 
