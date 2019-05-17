@@ -1,4 +1,4 @@
-# Does Not Fit Ticket 100%
+# Status of Ticket:
 
 **GET:** ~~Should be working properly!~~<br>
 **_EDIT:_** Works great! 2.0 - will bundle similar interests together
