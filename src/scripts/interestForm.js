@@ -27,16 +27,16 @@ export default () => {
 
   const option1 = document.createElement("option");
   option1.setAttribute("id", "option");
+  option1.setAttribute("value", "1");
   option1.textContent = "Italy";
-  option1.value = parseInt("1");
   const option2 = document.createElement("option");
   option2.setAttribute("id", "option");
+  option2.setAttribute("value", "2");
   option2.textContent = "Switzerland";
-  option2.value = parseInt("2");
   const option3 = document.createElement("option");
   option3.setAttribute("id", "option");
+  option3.setAttribute("value", "3");
   option3.textContent = "France";
-  option3.value = parseInt("3");
 
   interestLocation.appendChild(option1);
   interestLocation.appendChild(option2);
@@ -51,7 +51,7 @@ export default () => {
       description: descInput.value,
       cost: costInput.value,
       review: reviewInput.value,
-      placeId: document.getElementById("option").value
+      placeId: interestLocation.value
     };
     api.saveForm(content);
   });

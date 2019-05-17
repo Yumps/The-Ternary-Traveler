@@ -18,12 +18,28 @@
   ],
   "interests": [
     {
-      "id": 1,
-      "placeId": 1,
-      "name": "Local Market",
-      "description": "Local market where you can try purchase local products and try the local food",
-      "cost": "0",
-      "review": "I hated it"
+      "name": "jknkjhkjh",
+      "description": "kjhkhkjhkj",
+      "cost": "hkjhkjhkjh",
+      "review": "kjhkjhkjhk",
+      "placeId": "2",
+      "id": 2
+    },
+    {
+      "name": "jknkjhkjh",
+      "description": "kjhkhkjhkj",
+      "cost": "hkjhkjhkjh",
+      "review": "kjhkjhkjhk",
+      "placeId": "1",
+      "id": 3
+    },
+    {
+      "name": "lksalkdnlasj",
+      "description": "klnlk",
+      "cost": "nlknlnk",
+      "review": "lknknlkn",
+      "placeId": "2",
+      "id": 4
     }
   ]
 }
