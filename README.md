@@ -1,15 +1,15 @@
 # Does Not Fit Ticket 100%
 
-<bold>GET:</bold> Should be working properly!<br>
+**GET:** Should be working properly!<br>
 *EDIT* Works great! 2.0 - will bundle similar interests together
 
-<bold>Save:</bold> currently only saves to one placeId.<br>
+**Save:** currently only saves to one placeId.<br>
 *EDIT* Save now adds to proper placeId.
 
-<bold>Edit:</bold> hand in hand with save placeId issues.<br>
+**Edit:** hand in hand with save placeId issues.<br>
 *EDIT* Edit now works! All features can be edited, as well as if you added the interest to the wrong placeId it can be changed.
 
-<bold>Delete:</bold> works, does not have alert before deleted.<br>
+**Delete:** works, does not have alert before deleted.<br>
 *EDIT* Delete now has a working confirm before being deleted.
 
 # Does not refresh DOM yet.
