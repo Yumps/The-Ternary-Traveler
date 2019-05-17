@@ -1,6 +1,14 @@
-# Browserify Starter Files
+# Does Not Fit Ticket 100%
 
-Use this repository for when you want to start a new modular JavaScript application that gets compiled by Browserify. Create JavaScript modules in the `src/scripts` directory.
+*GET: Should be working properly!
+
+*Save: currently only saves to one placeId
+
+*Edit: hand in hand with save placeId issues.
+
+*Delete: works, does not have alert before deleted
+
+Still need to be create function to refresh DOM on button press.
 
 ## Project Setup
 
